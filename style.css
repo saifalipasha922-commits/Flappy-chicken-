@@ -45,7 +45,7 @@ h1 {
 }
 
 .jump {
-    animation: jump 0.5s ease;
+    animation: jump 1.2s ease;
 }
 
 @keyframes jump {
